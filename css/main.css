@@ -1,0 +1,44 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:200,300,400,500,600);
+*:after,
+*:before {
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+body{
+	font-family: "Lucida Console", "Courier New", monospace;
+	/* background-color: #bdbdbd47; */
+}
+
+.selectionButton{
+	grid-gap: 10px;
+}
+
+.textArea{
+	display: none;
+}
+
+.textArea2{
+display:none;
+
+}
+
+
+.uploading_section{
+	display: none;
+}
+
+.prograss-bar-photo{
+	display: none;
+}
+.prograss-bar-video{
+	display: none;
+}
+
+/* button */
+.b-2{
+  border: 2px solid #d7d7d7 !important;
+}
+img{
+  width: 100%;
+  height: 100%;
+}
